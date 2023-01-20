@@ -59,7 +59,7 @@ function updateProfessionalExperience(profileData) {
                 <p>${experience.description}</p>
             </li>
         `
-    }).join('')
+    }).join('') 
 }
 
 

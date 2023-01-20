@@ -2,7 +2,7 @@
 const acordeonTrigger = document.querySelectorAll('.acordeon .trigger')
 
 acordeonTrigger.forEach((trigger) => {
-    trigger.addEventListener('click', (e) => {
+    trigger.addEventListener('click', (e) => { 
         const acordeon = trigger.parentElement
 
         const isOpen = acordeon.classList.contains('open')
