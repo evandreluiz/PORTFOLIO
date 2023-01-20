@@ -59,19 +59,19 @@ width: 100%;
 }
 
 .information .job::before {    
-    background-image: url('assets/icons/job.svg');
+    background-image: url('/assets/icons/job.svg');
     background-repeat: no-repeat;
 }
 .information .location::before {    
-    background-image: url('assets/icons/location.svg');
+    background-image: url('/assets/icons/location.svg');
     background-repeat: no-repeat;
 }
 .information .phone::before {    
-    background-image: url('assets/icons/phone.svg');
+    background-image: url('/assets/icons/phone.svg');
     background-repeat: no-repeat;
 }
 .information .email::before {    
-    background-image: url('assets/icons/email.svg');
+    background-image: url('/assets/icons/email.svg');
     background-repeat: no-repeat;
 }
 
